@@ -15,3 +15,5 @@ Customer can make payment by cash, credit card or by cheque.
 System checks for the validity of staff. Once the payment is done by customer, valid staff will make Ticket Reservation System. .
 Reserved customer will be able to view details about reservation by providing login information from cust_info and tour_info system.
 Administrator can add, delete or modify tour schemes from Tour Information System.
+NOTE:- TO FIND THE BOOKING PAGE , PLEASE FIND IN THE PACKAGE PAGE ..., WHICH REDIRECTS YOU THE NEW WEBSITE FOR THE BOOKING, YOU CAN BOOK BY FILLING THE BLANKS AS PER YOUR REQUIREMENTS.
+  THANK YOU ..........
