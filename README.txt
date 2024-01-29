@@ -1,4 +1,5 @@
  TOUR MANAGEMENT SYSTEM :
+This project was completed in a collaborative setting as part of an academic assignment.
 Previously people wishing to visit places had to manually search for available accommodation at the visiting places. Also they themselves had to make reservation. 
 People hardly had any knowledge of which are the worth seeing places and about its history. Such procedure was time consuming and energy wasting.
 Tour Reservation System has made life very easy for such visitors by saving both their time and energy.
